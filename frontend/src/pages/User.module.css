@@ -1,0 +1,35 @@
+.container {
+   display: grid;
+   place-content: center;
+   min-width: 100vw;
+   min-height: 100vh;
+}
+
+.wrapper {
+   display: flex;
+   flex-flow: column;
+   box-shadow: 0 0 5px 0 grey;
+   padding: 30px;
+   border-radius: 10px;
+}
+
+.welcomeTitle {
+   font-size: 2rem;
+   text-align: center;
+}
+
+.loginDescription {
+   max-width: 500px;
+   margin-top: 20px;
+   line-height: 1.5;
+}
+
+.logoutBtn {
+   background: none;
+   margin: 15px auto 0;
+   font-size: 1rem;
+   padding: 5px 30px;
+   border: 1px solid grey;
+   border-radius: 100px;
+   cursor: pointer;
+}

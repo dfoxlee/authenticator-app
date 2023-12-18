@@ -1,0 +1,65 @@
+.container {
+   display: grid;
+   place-content: center;
+   min-width: 100vw;
+   min-height: 100vh;
+}
+
+.wrapper {
+   box-shadow: 0 0 5px 0 grey;
+   padding: 30px;
+   border-radius: 10px;
+}
+
+.loginSignupBtnWrapper {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 15px;
+}
+
+.loginSignupBtn {
+   background: none;
+   border-style: none;
+   font-size: 1.25rem;
+   cursor: pointer;
+}
+
+.toggleIcon {
+   font-size: 2rem;
+   margin: 0 30px;
+}
+
+.authenticationTitle {
+   font-size: 1.25rem;
+   margin-top: 10px;
+}
+
+.formWrapper {
+   margin-top: 5px;
+   display: flex;
+   flex-flow: column;
+}
+
+.inputWrapper {
+   display: flex;
+   flex-flow: column;
+   margin-top: 5px;
+}
+
+.formInput {
+   padding: 5px 10px;
+   border-radius: 5px;
+   border: 1px solid grey;
+   margin-top: 5px;
+}
+
+.loginSignupFormBtn {
+   background: none;
+   border: 1px solid grey;
+   font-size: 1.25rem;
+   cursor: pointer;
+   margin: 30px auto 0;
+   padding: 5px 30px;
+   border-radius: 100px;
+}
