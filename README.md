@@ -18,10 +18,10 @@ Simple app to demonstrate authentication using React for the frontend framework 
    - dotenv
 
 ## Main Login Page
-![Main Login Page](./assets/maing-login-page.jpg?raw=true)
+![Main Login Page](./authenticator-app/assets/maing-login-page.jpg?raw=true)
 
 ## User Page
-![User Page](./assets/user-page.jpg?raw=true)
+![User Page](./authenticator-app/assets/user-page.jpg?raw=true)
 
 ## MongoDB Database
-![MongoDB Database Screenshot](./assets/mongodb-view.jpg?raw=true)
+![MongoDB Database Screenshot](./authenticator-app/assets/mongodb-view.jpg?raw=true)
