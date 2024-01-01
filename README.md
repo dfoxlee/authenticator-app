@@ -16,3 +16,12 @@ Simple app to demonstrate authentication using React for the frontend framework 
    - MongoDB
    - mongoose
    - dotenv
+
+## Main Login Page
+![alt text](https://github.com/dfoxlee/authentication-app/assets/maing-login-page.jpg?raw=true)
+
+## User Page
+![alt text](https://github.com/dfoxlee/authentication-app/assets/user-page.jpg?raw=true)
+
+## MongoDB Database
+![alt text](https://github.com/dfoxlee/authentication-app/assets/mongodb-view.jpg?raw=true)
